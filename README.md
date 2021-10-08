@@ -1,2 +1,2 @@
 # CMPE131_TermProject
-Team members: Thuy Vy, Hoang Tuan Anh Vu.
+Team members: Thuy Vy, Guillermo Luna, Aaron Rice, Hoang Tuan Anh Vu.
